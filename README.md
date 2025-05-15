@@ -112,11 +112,4 @@ Y también imágenes de tickets, como los que recibís al hacer una compra en al
 
 ---
 
-## 📝 Nota
-
-Este proyecto es de uso **personal** y no está relacionado con Tec Store ni con ningún emprendimiento comercial.  
-No se publica el código fuente por privacidad y para evitar exposición de claves sensibles, pero el funcionamiento completo está documentado en este repositorio.
-
----
-
 > 💬 *"Automatizar gastos fue un cambio clave para tener control real de mis finanzas personales."*
