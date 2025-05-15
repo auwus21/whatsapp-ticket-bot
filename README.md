@@ -69,18 +69,18 @@ Así nació este bot como un proyecto 100% personal, con el objetivo de:
 
 ---
 
-## 💡 Casos de uso reales
+💡 Casos de uso reales
 
 Este bot lo uso todos los días para registrar gastos de todo tipo: supermercado, delivery, transporte, ferretería, salud, etc.
 
 Algunos ejemplos de entradas:
 
-verdulería 3000 efectivo
-farmacia 2800 visa débito
-pollajería 5400 cuenta dni
-
+- `verdulería 3000 efectivo`
+- `farmacia 2800 visa débito`
+- `pollajería 5400 cuenta dni`
 
 Y también imágenes de tickets, como los que recibís al hacer una compra en almacenes o supermercados.
+
 
 ---
 
